@@ -1,2 +1,2 @@
-Stramlit
+Stream lit
 pandas
