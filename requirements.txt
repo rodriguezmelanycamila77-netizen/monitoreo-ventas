@@ -1,2 +1,2 @@
-Stream lit
-pandas
+Streamlit
+panda
